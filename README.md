@@ -7,7 +7,7 @@ The game helps students learn ionic compound formulas by arranging the correct i
 
 Learning chemical bonds, especially ionic bonds, is an important topic in chemistry education. However, traditional exercises from textbooks may not always engage students.  
 
-This project aims to develop a mobile puzzle game that helps students understand ionic compounds in a more interactive and enjoyable way. By using a smartphone application, students can practice identifying ionic compounds while playing a game.
+This project aims to develop a mobile puzzle game that helps students understand ionic compounds more interactively and enjoyably. By using a smartphone application, students can practice identifying ionic compounds while playing a game.
 
 ## Features
 
@@ -37,8 +37,8 @@ The development process includes the following steps:
 
 ## Screenshots
 
-![Game1](https://github.com/YeanWK/img/blob/main/game1.png?raw=true)
-![Game2](https://github.com/YeanWK/img/blob/main/game2.png?raw=true)
-![Game3](https://github.com/YeanWK/img/blob/main/game3.png?raw=true)
+![1](https://github.com/user-attachments/assets/c5e89efa-e368-4b0a-9a7c-9a8c6f02b367)
+![2](https://github.com/user-attachments/assets/ac69c910-f0ce-4d01-832d-d6df6c20e6ff)
+![3](https://github.com/user-attachments/assets/4c28ed70-b5aa-4434-99b0-e2d6b87662a1)
 
 
